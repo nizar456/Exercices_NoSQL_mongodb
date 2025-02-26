@@ -29,8 +29,8 @@
 <img src="images/4.png">
 <br>
 
-## Q6
+## Q5
 
 <br>
-<img src="images/p2_6.png">
+<img src="images/5.png">
 <br>
