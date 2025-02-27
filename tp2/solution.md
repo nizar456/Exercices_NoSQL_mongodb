@@ -42,3 +42,7 @@
 <br>
 
 ## Q6
+
+<br>
+<img src="images/6.png">
+<br>
