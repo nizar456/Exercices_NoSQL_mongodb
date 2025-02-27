@@ -30,7 +30,15 @@
 <br>
 
 ## Q5
+### 1
+<br>
+<img src="images/5_1.png">
+<br>
+
+### 2
 
 <br>
 <img src="images/5.png">
 <br>
+
+## Q6
